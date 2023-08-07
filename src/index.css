@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.blurclass{
+    backdrop-filter: blur(12px);
+    background: #f6f5f508;
+    border: 1px solid rgba(255, 255, 255, 0.037);
+}
